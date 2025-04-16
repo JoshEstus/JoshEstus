@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Josh Estus, a software engineer with a passion for all sorts of nerdy interests; LotR, Star Wars and Stormlight Archive (reading the Cosmere!) to name a few.
+
+### What I'm current up to
+- 🌱 learning through the boot.dev courses.
+- 🔭 looking for Senior Software Engineering positions
 <!--
 **JoshEstus/JoshEstus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
