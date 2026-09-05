@@ -1,18 +1,22 @@
-## Hi there 👋
+## Hey, I’m Josh 👋
 
-I'm Josh Estus, a software engineer with a passion for all sorts of nerdy interests; LotR, Star Wars and Stormlight Archive (reading the Cosmere!) to name a few.
+I’m a software engineer who enjoys building dependable applications and continuously expanding my toolkit. I work across the stack, from thoughtful user experiences to APIs, databases, infrastructure, and delivery pipelines.
 
-### Current Skillset
-- Languages: JavaScript, Node.js, Typescript, Python3, Java, SQL, ColdFusion
-- Frameworks: React, GraphQL, Flask, Spring Boot, Express.js
-- Testing: Jest, Pytest, jUnit, Selenium
-- Cloud: AWS, Kubernetes, Docker, Terraform
-- Databases: PostgreSQL, MongoDB, Sybase
-- CI/CD: Github Actions, Gitlab Pipelines, Jenkins
+I’m currently sharpening my Python skills and learning Go through [boot.dev](https://www.boot.dev/). I’m also open to Senior Software Engineering opportunities.
 
-### What I'm current up to
-- 🌱 honing Python and learning Go through the boot.dev courses.
-- 🔭 looking for Senior Software Engineering positions
+### What I work with
+
+| Area | Tools & technologies |
+| --- | --- |
+| **Languages** | JavaScript, TypeScript, Python, Java, SQL, ColdFusion |
+| **Application development** | React, Node.js, Express, Flask, Spring Boot, GraphQL |
+| **Data** | PostgreSQL, MongoDB, Sybase |
+| **Cloud & infrastructure** | AWS, Kubernetes, Docker, Terraform |
+| **Quality & delivery** | Jest, Pytest, JUnit, Selenium, GitHub Actions, GitLab CI/CD, Jenkins |
+
+### Beyond the keyboard
+
+When I’m not programming, I’m usually somewhere in a galaxy far, far away, in Middle-earth, or deep in the Cosmere. Ask me about *The Lord of the Rings*, *Star Wars*, or Brandon Sanderson’s books.
 <!--
 **JoshEstus/JoshEstus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
