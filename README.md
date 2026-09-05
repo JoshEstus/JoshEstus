@@ -9,9 +9,10 @@ I’m currently sharpening my Python skills and learning Go through [boot.dev](h
 | Area | Tools & technologies |
 | --- | --- |
 | **Languages** | JavaScript, TypeScript, Python, Java, SQL, ColdFusion |
-| **Application development** | React, Node.js, Express, Flask, Spring Boot, GraphQL |
+| **Application development** | React, Node.js, Express, Flask, FastAPI, Spring Boot, GraphQL |
+| **Integrations** | MCP servers |
 | **Data** | PostgreSQL, MongoDB, Sybase |
-| **Cloud & infrastructure** | AWS, Kubernetes, Docker, Terraform |
+| **Cloud & infrastructure** | AWS, Oracle Cloud Infrastructure (OCI), Kubernetes, Docker, Terraform |
 | **Quality & delivery** | Jest, Pytest, JUnit, Selenium, GitHub Actions, GitLab CI/CD, Jenkins |
 
 ### Beyond the keyboard
